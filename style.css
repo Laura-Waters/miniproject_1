@@ -8,9 +8,6 @@ body {
     padding: 0;
   }
 
-main {
-
-}
 
 header {
     width: 100%;
@@ -83,6 +80,11 @@ h2 {
 .container {
     display: block;
     padding: 6px;
+}
+
+#button {
+color: white;
+background-color: rgb(60, 66, 60);
 }
 
 footer {
